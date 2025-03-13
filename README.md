@@ -1,4 +1,4 @@
-# Hi there, I'm Gerardo Fernández! 🇩🇴 
+# Hi there, I'm Gerardo Fernández! <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" alt="DO" width="20" />
 I'm a passionate Computer Science student from the Dominican Republic currently studying at the University del Valle of Guatemala, looking forward to learn!  
 
 - **Contact me:** 📬 [fer23763@uvg.edu.gt](mailto:fer23763@uvg.edu.gt)
