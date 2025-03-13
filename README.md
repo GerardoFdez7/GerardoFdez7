@@ -6,7 +6,7 @@ I'm a passionate Computer Science student from the Dominican Republic currently 
 <div align="center"
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GerardoFdez7&theme=tokyonight&hide_border=true&border_radius=10&exclude_days=Sun%2CSat&excludeDaysLabel=EB545400" alt="GitHub Streak" /></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoFdez7&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoFdez7&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10&layout=compact)
 </div>
 
 <!-- FOOTER -->
